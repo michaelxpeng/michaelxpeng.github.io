@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    text-align: center;    
+}
+
+p, h1 {
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 25px;
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+.section {
+
+}
+
+#aside {
+
+}
+
+#article {
+    color: #ebebeb;
+    background-color: #777;
+    width: 495px;
+    font-size: 18px;
+}
+
+footer {
+    clear: both;
+}
